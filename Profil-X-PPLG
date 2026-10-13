@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Direktori Profil Kelas X PPLG</title>
+</head>
+<body style="font-family: Arial; background-color: #f5f5f5;">
+
+<h1 align="center">🎓 DIREKTORI PROFIL KELAS X RPL 1</h1>
+<p align="center"><i>Buku Angkatan Digital & Galeri Profil Siswa Rekayasa Perangkat Lunak</i></p>
+
+<hr>
+
+<h3>📌 Informasi Umum Kelas</h3>
+
+<table border="1" cellpadding="10" width="100%">
+    <tr>
+        <td><b>Wali Kelas</b></td>
+        <td>BAPAK MOH.Shobirin,s.kom</td>
+    </tr>
+    <tr>
+        <td><b>Ketua Kelas</b></td>
+        <td>m bilal akbar</td>
+    </tr>
+    <tr>
+        <td><b>Jumlah Siswa</b></td>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td><b>Slogan Kelas</b></td>
+        <td><i>"PPLG JOSJIS🤙🏻"</i> </td>
+    </tr>
+</table>
+
+<br>
+
+<h3>📋 Daftar Anggota Kelas</h3>
+<ol>
+    <li><a href="#putri">fatimah putri nur anggraini(wakil ketua Kelas)</a></li>
+    <li><a href="#gesti">gesti anggraini (Anggota Kelas)</a></li>
+  <li><a href="#bilal">m bilal akbar (ketua Kelas)</a></li>
+  <li><a href="#naisila">naisilatul khumairo (Anggota Kelas)</a></li>
+  <li><a href="#attar">attar ibrar al ikhafi (sekertaris)</a></li>
+</ol>
+
+<hr>
+
+<h3 id="putri">👤 PROFIL SISWA 01 - fatimah putri nur anggraini</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="putri.jpg"
+alt="Foto Siswa kesatu" width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="audio4.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>NISN:</b> 0106899550</li>
+    <li><b>Nama:</b> fatimah nur anggraini putri</li>
+    <li><b>Tempat, Tanggal Lahir:</b> pasuruan, 07, 09, 2010</li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Sekolah:</b> SMKN 1 Bangil</li>
+    <li><b>Hobi:</b> menari</li>
+    <li><b>Cita-cita:</b> orang sukses</li>
+    <li><b>Motto:</b> "kita harus jadi peran utama di hidup siapapun."</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar HTML dan pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+<hr>
+
+<h3 id="siswa2">👤 PROFIL SISWA 02 -attar ibrar al khafi </h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="attar.jpg" alt="Foto Siswa Kedua"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="attar.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>NISN:</b> 0119966916</li>
+    <li><b>Nama:</b> attar ibrar al ikhafi</li>
+    <li><b>Tempat, Tanggal Lahir:</b>pasuruan,03, 05 2011 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> mengedit video</li>
+    <li><b>Cita-cita:</b> fakultas kedokteran bidang polianak</li>
+    <li><b>Motto:</b> "stay enthusiantic in doing goodnes and never give up easily."</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+<hr>
+
+<h3 id="siswa3">👤 PROFIL SISWA 03 - azza</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="azza.jpg" alt="Foto Siswa Ketiga"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="audio5.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>NISN:</b> 0102181174</li>
+    <li><b>Nama:</b> rihadatul azza</li>
+    <li><b>Tempat, Tanggal Lahir:</b> pasuruan, 08 10 2010</li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> mendengarkan musik</li>
+    <li><b>Cita-cita:</b> menjadi orang sukses</li>
+    <li><b>Motto:</b> "jadilah lebih baik dari dirimu yang kemarin"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+<hr>
+
+<h3 id="siswa2">👤 PROFIL SISWA 04 - gesti</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="gesti.jpg" alt="Foto Siswa Keempat"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="gesti.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>NISN:</b> 0109193449</li>
+    <li><b>Nama:</b> gesti anggraini</li>
+    <li><b>Tempat, Tanggal Lahir:</b>sidoarjo,03 10 2010 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> jalan jalan</li>
+    <li><b>Cita-cita:</b> polwan</li>
+    <li><b>Motto:</b> "jadilah orang baik karena allah menyukai orang' yang selalu berbuat baik"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar HTML & pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+<hr>
+
+<h3 id="siswa5">👤 PROFIL SISWA 05 - naisilatul khumairo</h3>
+
+<table border="1" cellpadding="15" width="100%">
+<tr>
+<td width="35%" align="center">
+
+<img src="naisila.jpg" alt="Foto Siswa Kelima"
+width="150" height="180">
+
+<p><b>🎙️ Suara Perkenalan:</b></p>
+
+<audio controls>
+    <source src="naisila.mp3" type="audio/mpeg">
+</audio>
+
+</td>
+
+<td>
+<ul>
+    <li><b>NISN:</b> 0109714817</li>
+    <li><b>Nama:</b>naisilatul khumairo</li>
+    <li><b>Tempat, Tanggal Lahir:</b>pasuruan,01 05 2010 </li>
+    <li><b>Kelas:</b> X PPLG</li>
+    <li><b>Hobi:</b> bersepeda</li>
+    <li><b>Cita-cita:</b> pengusaha</li>
+    <li><b>Motto:</b> "jadilah manusia yang jadi lebih baik dari kemarin"</li>
+</ul>
+
+<details>
+    <summary>🏆 Lihat Riwayat & Keahlian</summary>
+    <p>Riwayat: Pelajar SMKN 1 Bangil.</p>
+    <p>Keahlian: Belajar pemrograman dasar.</p>
+</details>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="#top">⬆ Kembali ke Atas</a></p>
+
+</body>
+</html>
