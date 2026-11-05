@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Close Friends - Demo</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #000;
+    color: white;
+    font-family: Georgia, serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding-top: 15px;
+    gap: 0;
+}
+
+/* KOLOM KIRI */
+.left {
+    width: 46%;
+    min-height: 780px;
+    text-align: center;
+    padding: 35px 25px;
+}
+
+.instagram-logo {
+    width: 75px;
+    height: 75px;
+    border: 6px solid #d34a9a;
+    border-radius: 22px;
+    margin: 0 auto 60px;
+    position: relative;
+}
+
+.instagram-logo::before {
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border: 5px solid #d34a9a;
+    border-radius: 50%;
+    top: 15px;
+    left: 15px;
+}
+
+.instagram-logo::after {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: #f5a64b;
+    border-radius: 50%;
+    top: 10px;
+    right: 10px;
+}
+
+.left h1 {
+    font-size: 35px;
+    line-height: 1.4;
+    margin-bottom: 80px;
+}
+
+.pink {
+    color: #d94b78;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.photo {
+    width: 100px;
+    height: 190px;
+    border-radius: 15px;
+    background: linear-gradient(145deg, #267c61, #a12d86, #e6a34d);
+    border: 3px solid #555;
+}
+
+.photo.middle {
+    width: 125px;
+    height: 240px;
+    background: linear-gradient(145deg, #e4bc63, #79452f, #252525);
+    margin-top: -25px;
+}
+
+/* PEMBATAS */
+.divider {
+    width: 55px;
+    height: 780px;
+    background: #262626;
+}
+
+/* KOLOM KANAN */
+.right {
+    width: 46%;
+    padding: 145px 55px;
+    text-align: center;
+}
+
+.right h2 {
+    font-size: 35px;
+    margin-bottom: 60px;
+}
+
+.login-box {
+    width: 100%;
+    max-width: 490px;
+    margin: auto;
+}
+
+.login-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-family: Georgia, serif;
+    font-size: 15px;
+}
+
+.login-button {
+    width: 100%;
+    padding: 12px;
+    background: #0866e8;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+}
+
+.forgot {
+    color: #aaa;
+    margin: 20px 0;
+}
+
+.facebook {
+    background: #262626;
+    padding: 13px;
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.create {
+    border: 2px solid #245b91;
+    padding: 10px;
+    color: #609bd4;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.meta {
+    margin-top: 55px;
+    color: #aaa;
+    font-size: 15px;
+}
+
+@media(max-width: 700px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .left, .right {
+        width: 100%;
+    }
+
+    .divider {
+        width: 80%;
+        height: 3px;
+    }
+
+    .right {
+        padding: 50px 25px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- BAGIAN KIRI -->
+    <div class="left">
+
+        <div class="instagram-logo"></div>
+
+        <h1>
+            See everyday<br>
+            moments from<br>
+            your <span class="pink">close friends.</span>
+        </h1>
+
+        <div class="photos">
+            <div class="photo"></div>
+            <div class="photo middle"></div>
+            <div class="photo"></div>
+        </div>
+
+    </div>
+
+    <!-- PEMBATAS TENGAH -->
+    <div class="divider"></div>
+
+    <!-- BAGIAN KANAN -->
+    <div class="right">
+
+        <h2>Log into PhotoShare</h2>
+
+        <div class="login-box">
+
+            <input
+                type="text"
+                placeholder="Mobile number, username or email"
+            >
+
+            <input
+                type="password"
+                placeholder="Password (demo)"
+            >
+
+            <button class="login-button" type="button">
+                Log in (Demo)
+            </button>
+
+            <p class="forgot">Forgot password?</p>
+
+            <div class="facebook">
+                Log in with Facebook (Demo)
+            </div>
+
+            <div class="create">
+                Create new account
+            </div>
+
+            <p class="meta">© Meta</p>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
